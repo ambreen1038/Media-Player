@@ -1,0 +1,5 @@
+DIL DIL,Zakwan,ROCK,10
+Aa dil,Safwan,DESI,10
+ABCDXS,Ahmad,DESI,15
+humnawa,Shabar,Punj,10
+ABCDDD,Ahmad,DESI,20
